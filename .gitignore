@@ -1,0 +1,5 @@
+dataset/
+food_spoilage.db
+__pycache__/
+.keras/
+.ipynb_checkpoints/

@@ -13,7 +13,7 @@ from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 # SETTINGS
 # ============================================================
 
-MODEL_PATH = r"D:\archive\food_freshness_model.h5"
+MODEL_PATH = "food_freshness_model.h5"
 DB_PATH = r"D:\archive\food_spoilage.db"
 
 IMG_SIZE = (224, 224)
